@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/bc3653a9-cbca-4447-a8e5-e8cb361ca6e8)
 # Internship Request Management System - La Poste Tunisienne
 
 This project is a web application for managing internship requests, developed as part of an internship at the Training Department of La Poste Tunisienne. The goal of this application is to digitize and streamline the process of submitting and managing internship applications, which was previously handled manually.

@@ -345,6 +345,4 @@ the application page that allows adding a new internship request. On this page, 
 
 **Lounissi Montassar**
 
--   [LinkedIn](https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-profile)
-    
--   [GitHub](https://www.google.com/search?q=https://github.com/your-username)
+-   [LinkedIn](https://www.linkedin.com/in/lounissi-montassar/)
